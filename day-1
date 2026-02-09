@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Adventure</title>
+    <title>Day 1</title>
     <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Playfair+Display:ital@0;1&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -109,23 +109,17 @@
 <body>
 
     <div class="card">
-        <h1>Our First Date Spot</h1>
+        <h1>24 July 2019 - A Party in London </h1>
         
         <img src="https://via.placeholder.com/400x250" alt="Our Memory" class="main-photo">
 
         <div class="message">
-            This is where it all began. Every time I hear this song, I'm transported back to the moment I first saw you.
+            Look at how young we look! I wouldn't say this is where it all began, as it was love at first sight, but living it up with you in Europe, with no cares in the world, remains one of my fondest memories of our time together. Toby's poor pants...
         </div>
 
         <a href="https://open.spotify.com/track/YOUR_TRACK_ID" class="spotify-button">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify">
-            Play Our Song
         </a>
-
-        <div class="clue-box">
-            <span class="clue-header">The Next Clue</span>
-            <p class="clue-text">Your next adventure awaits... Find the place where we carved our initials into the old oak tree.</p>
-        </div>
     </div>
 
 </body>
